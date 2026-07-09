@@ -7,7 +7,9 @@
 </p>
 <p align="center">
   <a href="https://lownamlee.com">Website</a> &middot;
-  <a href="https://github.com/lownamlee?tab=repositories">Repositories</a>
+  <a href="https://github.com/lownamlee?tab=repositories">Repositories</a> &middot;
+  <a href="https://github.com/0xburger">0xburger GitHub</a> &middot;
+  <a href="https://ctftime.org/team/440041/">0xburger CTFtime</a>
 </p>
 
 ---
@@ -24,6 +26,14 @@ I'm **Low Nam Lee** — a full-stack developer who enjoys working across the sta
   </p>
   <img src="./assets/under-construction.gif" width="160" alt="Quby sticker under construction" />
 </div>
+
+## 0xBURGER CTF Team
+
+Meet my CTF Team.
+
+- GitHub: [github.com/0xburger](https://github.com/0xburger)
+- LinkedIn: [linkedin.com/company/0xburger](https://www.linkedin.com/company/0xburger/)
+- CTFtime: [0xburger](https://ctftime.org/team/440041/)
 
 ## Find me
 
